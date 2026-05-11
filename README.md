@@ -9,33 +9,40 @@
 
 ---
 
+
 ## ⚔️ Tech Stack
 
-<div style="display: inline_block"><br>
+<div align="center">
 
-<img align="center" alt="HTML" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img alt="HTML" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 
-<img align="center" alt="CSS" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img alt="CSS" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 
-<img align="center" alt="JS" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img alt="JavaScript" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
-<img align="center" alt="SQL" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img alt="SQL" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
-<img align="center" alt="Photoshop" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+<img alt="Photoshop" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
 
-<img align="center" alt="After Effects" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
+<img alt="After Effects" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>
 
-<img align="center" alt="Premiere" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
+<img alt="Premiere" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=orange">
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=blue">
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=yellow">
+  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
 
 </div>
-
 ---
 
 ## 📊 GitHub Stats
@@ -74,8 +81,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatR-Oliveir
 
 ## 🌌 Contato
 
-📫 Email: SEUEMAIL  
-💼 LinkedIn: SEULINKEDIN
+📫 Email: natrodrigues22@gmail.com 
+💼 LinkedIn: natalia-r-oliveira
+
+
+
 
 ---
 
