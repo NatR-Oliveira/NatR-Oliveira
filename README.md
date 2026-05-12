@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👾 Welcome to my profile
+# 👾 Bem vindos ao meu perfil
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=A020F0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress;HTML+%7C+CSS+%7C+JavaScript+%7C+SQL;Creative+Developer+%F0%9F%9A%80;Gaming+%2B+Technology+%2B+Design"/>
 
