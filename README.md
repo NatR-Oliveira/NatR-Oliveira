@@ -35,10 +35,9 @@
 
 # 🚀 Atualmente aprendendo
 
-📌 JavaScript
+📌 TypeScript
 📌 PostgreSQL
-📌 Bootstrap
-📌 Desenvolvimento Full Stack
+📌 Angular
 
 
 ---
