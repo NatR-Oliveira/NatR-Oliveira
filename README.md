@@ -4,7 +4,7 @@
 
 # 👾 Bem vindos ao meu perfil
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=A020F0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress;HTML+%7C+CSS+%7C+JavaScript+%7C+SQL;Creative+Developer+%F0%9F%9A%80;"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=A020F0&center=true&vCenter=true&width=600&lines=Desenvolvedora+Full+Stack;Designer+Gráfico;Creative+Developer+%F0%9F%9A%80;"/>
 
 </div>
 
@@ -20,25 +20,29 @@
 
 ---
 
-# ⚔️ Tech Stack
+## 🚀 Hard Skills
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="50"/>
-</div>
+💻 Front-end  
+• HTML 
+• CSS 
+• JavaScript 
+• TypeScript (aprendendo) 
+• Angular (aprendendo)
 
----
+💻 Back-End
+• Maker Bootstrap 5
+• PostgreSQL (aprendendo)
 
-# 🚀 Atualmente aprendendo
+🛠 Ferramentas  
+• Git 
+• GitHub 
+• VS Code
 
-📌 TypeScript
-📌 PostgreSQL
-📌 Angular
-
+✨ Design
+• Photoshop
+• Premiere
+• After Effects
+• Zbrush
 
 ---
 
@@ -48,6 +52,18 @@
 - 💜 Criar interfaces modernas
 - 💜 Trabalhar com projetos reais
 - 💜 Aprender novas tecnologias
+
+---
+
+## 🌸 Soft Skills
+
+✨ Criatividade  
+✨ Organização  
+✨ Aprendizado rápido  
+✨ Resolução de problemas  
+✨ Trabalho em equipe
+✨ Adaptabilidade
+✨ Proatividade
 
 ---
 
