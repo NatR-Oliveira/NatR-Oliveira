@@ -65,6 +65,8 @@
 ✨ Adaptabilidade
 ✨ Proatividade
 
+
+
 ---
 
 # 🌌 Contato
