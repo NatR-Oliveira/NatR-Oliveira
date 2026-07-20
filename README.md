@@ -11,7 +11,8 @@
 <div>
   <img src="https://github.com/user-attachments/assets/754fa3be-bc88-4d6b-9d18-e07c93446f4b" align="right" width="280" alt="Avatar Electro Tech"  
   
-  ## 🎮 Lore do Personagem (Sobre mim)
+  
+### 🎮 Lore do Personagem (Sobre mim)
 
   **Classe:** Desenvolvedora & Designer  
   **Visão (Elemento):** Criatividade `[Electro ⚡]`  
@@ -23,7 +24,8 @@
   - 💡 **Passiva:** A ponte entre a arte visual e a lógica computacional. Evoluindo a cada sprint, seja codando ou criando no Photoshop.
   - 🏎️ **Modo F1:** Sempre buscando otimizar o aprendizado e acelerar a resolução de problemas (DRS ativado!).
 </div>
- ## ⚔️ Árvore de Habilidades (Hard Skills)
+
+### ⚔️ Árvore de Habilidades (Hard Skills)
 
 <div align="center">
 
@@ -32,7 +34,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> 
 
 ### ⚙️ Back-End & Dados
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
