@@ -23,7 +23,7 @@
   - 💡 **Passiva:** A ponte entre a arte visual e a lógica computacional. Evoluindo a cada sprint, seja codando ou criando no Photoshop.
   - 🏎️ **Modo F1:** Sempre buscando otimizar o aprendizado e acelerar a resolução de problemas (DRS ativado!).
 </div>
-## ⚔️ Árvore de Habilidades (Hard Skills)
+ ## ⚔️ Árvore de Habilidades (Hard Skills)
 
 <div align="center">
 
@@ -58,7 +58,6 @@
 </div>
 
 ---
----
 
 ## 🏆 Galeria de Missões (Meus Projetos)
 
@@ -74,14 +73,6 @@
 </a>
 
 <br><br>
-
-## 📊 Status do Jogador
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatR-Oliveira&show_icons=true&theme=tokyonight&v=1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatR-Oliveira&layout=compact&theme=tokyonight&v=1"/>
-</div>
----
 
 ## 🌌 Ponto de Teleporte (Contato)
 
